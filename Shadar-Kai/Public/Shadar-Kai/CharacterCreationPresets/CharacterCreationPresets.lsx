@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+  <version major="4" minor="0" revision="0" build="47"/>
+  <region id="CharacterCreationPresets">
+    <node id="root">
+      <children>
+				<node id="CharacterCreationPreset">
+          <attribute id="BodyShape" type="uint8" value="0"/>
+          <attribute id="BodyType" type="uint8" value="1"/>
+          <attribute id="CloseUpA" type="LSString" value="ELF_F_Camera_Closeup_A"/>
+          <attribute id="CloseUpB" type="LSString" value="ELF_F_Camera_Closeup_B"/>
+          <attribute id="Overview" type="LSString" value="ELF_F_Camera_Overview_A"/>
+          <attribute id="RaceUUID" type="guid" value="6c038dcb-7eb5-431d-84f8-cecfaf1c0c5a"/>
+          <attribute id="RootTemplate" type="guid" value="692bd578-f4fe-43b1-be34-dfcfef091fe8"/>
+					<attribute id="SubRaceUUID" type="guid" value="27844147-3e0f-4b2e-8377-8d015b8384df"/>
+          <attribute id="UUID" type="guid" value="014a6ff2-a134-46a0-b587-2186727f1dc1"/>
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
+        </node>
+				<node id="CharacterCreationPreset">
+          <attribute id="BodyShape" type="uint8" value="0"/>
+          <attribute id="BodyType" type="uint8" value="0"/>
+          <attribute id="CloseUpA" type="LSString" value="ELF_M_Camera_Closeup_A"/>
+          <attribute id="CloseUpB" type="LSString" value="ELF_M_Camera_Closeup_B"/>
+          <attribute id="Overview" type="LSString" value="ELF_M_Camera_Overview_A"/>
+          <attribute id="RaceUUID" type="guid" value="6c038dcb-7eb5-431d-84f8-cecfaf1c0c5a"/>
+          <attribute id="RootTemplate" type="guid" value="b6536db4-48e9-4b4e-80cd-2c7158fe2936"/>
+					<attribute id="SubRaceUUID" type="guid" value="27844147-3e0f-4b2e-8377-8d015b8384df"/>
+          <attribute id="UUID" type="guid" value="4cc77312-9c39-4266-b7a3-a25c58f6b66a"/>
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
+        </node>
+				<node id="CharacterCreationPreset">
+          <attribute id="BodyShape" type="uint8" value="1"/>
+          <attribute id="BodyType" type="uint8" value="1"/>
+          <attribute id="CloseUpA" type="LSString" value="HUM_FB_Camera_Closeup_A"/>
+          <attribute id="CloseUpB" type="LSString" value="HUM_FB_Camera_Closeup_B"/>
+          <attribute id="Overview" type="LSString" value="HUM_FB_Camera_Overview_A"/>
+          <attribute id="RaceUUID" type="guid" value="6c038dcb-7eb5-431d-84f8-cecfaf1c0c5a"/>
+          <attribute id="RootTemplate" type="guid" value="8bd25683-8607-48b4-a7f8-e9f1fecba74a"/>
+					<attribute id="SubRaceUUID" type="guid" value="27844147-3e0f-4b2e-8377-8d015b8384df"/>
+          <attribute id="UUID" type="guid" value="cea04e3f-f218-41ce-8eb9-b48bf2e5117f"/>
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
+        </node>
+				<node id="CharacterCreationPreset">
+          <attribute id="BodyShape" type="uint8" value="1"/>
+          <attribute id="BodyType" type="uint8" value="0"/>
+          <attribute id="CloseUpA" type="LSString" value="HUM_MB_Camera_Closeup_A"/>
+          <attribute id="CloseUpB" type="LSString" value="HUM_MB_Camera_Closeup_B"/>
+          <attribute id="Overview" type="LSString" value="HUM_MB_Camera_Overview_A"/>
+          <attribute id="RaceUUID" type="guid" value="6c038dcb-7eb5-431d-84f8-cecfaf1c0c5a"/>
+          <attribute id="RootTemplate" type="guid" value="11295685-c8f1-442a-829a-a32c4bba3306"/>
+					<attribute id="SubRaceUUID" type="guid" value="27844147-3e0f-4b2e-8377-8d015b8384df"/>
+          <attribute id="UUID" type="guid" value="2bd0ce4c-fbca-4889-8780-a9bb0a1589e0"/>
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>
