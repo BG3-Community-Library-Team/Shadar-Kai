@@ -8,13 +8,13 @@
                 <node id="ModuleInfo">
                     <attribute id="Author" type="LSString" value="NellsRelo"/>
                     <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
-                    <attribute id="Description" type="LSString" value="Adds the Shadar-Kai as an elven subrace"/>
-                    <attribute id="Folder" type="LSString" value="Shadar-Kai"/>
+                    <attribute id="Description" type="LSString" value="Patch to fix Compatibility Issue Between Shadar-Kai and mods that move Movement Score allocation from subraces to main races"/>
+                    <attribute id="Folder" type="LSString" value="Shadar-Kai-MovementPatch"/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
                     <attribute id="MD5" type="LSString" value=""/>
                     <attribute id="MainMenuBackgroundVideo" type="FixedString" value=""/>
                     <attribute id="MenuLevelName" type="FixedString" value=""/>
-                    <attribute id="Name" type="FixedString" value="CL_ShadarKai"/>
+                    <attribute id="Name" type="FixedString" value="CL_ShadarKaiPatch"/>
                     <attribute id="NumPlayers" type="uint8" value="4"/>
                     <attribute id="PhotoBooth" type="FixedString" value=""/>
                     <attribute id="StartupLevelName" type="FixedString" value=""/>
